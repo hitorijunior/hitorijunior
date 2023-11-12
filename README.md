@@ -2,4 +2,6 @@
 
 Hii Im Hitori From [ INDONESIA ] ✨
 
-Pada Github HITORI Ini Akan Diisi Oleh Tool - Tool Termux Untuk Mengedukasi Bagaimana Dunia Cyber Bekerja Secara Akurat, Harap Untuk Kalian Yang Menggunakan Tool Dari Kami, Mohon Untuk Menggunakanya Dengan Bijaksana, Jika Kalian Melanggar Apa Yang Kami Sampaikan, RESIKO Tidak Akan Kami Tanggung, Mohon Untuk Bertanggung Jawab Atas Apa Yang Kalian Lakukan Sendiri
+Pada Github HITORI Ini Akan Diisi Oleh Tool TERMUX Untuk Mengedukasi Bagaimana Dunia Cyber Bekerja Secara Akurat, Harap Untuk Kalian Yang Menggunakan Tool Dari Kami, Mohon Untuk Menggunakanya Dengan Bijaksana, Jika Kalian Melanggar Apa Yang Kami Sampaikan, RESIKO Tidak Akan Kami Tanggung, Mohon Untuk Bertanggung Jawab Atas Apa Yang Kalian Lakukan Sendiri
+
+Terimakasih Atas Perhatian Kalian Yang Telah Membaca Informasi Yang Kami Berikan, Sekali Lagi Kami Ucapkan Bijaksanalah Dalam Melakukan Hal Yang BERESIKO Tinggi
